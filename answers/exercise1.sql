@@ -1,0 +1,1 @@
+SELECT * FROM GiveMeTheGoods WHERE city LIKE '_a%';

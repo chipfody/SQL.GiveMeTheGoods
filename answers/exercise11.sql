@@ -1,0 +1,1 @@
+SELECT id, Students AS Learners, City, Country, PostalCode, Courses, CreditHours FROM GiveMeTheGoods;

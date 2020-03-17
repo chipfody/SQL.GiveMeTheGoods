@@ -1,0 +1,1 @@
+SELECT * FROM GiveMeTheGoods WHERE CreditHours BETWEEN 10 AND 20;

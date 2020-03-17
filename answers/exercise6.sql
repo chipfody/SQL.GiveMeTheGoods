@@ -1,0 +1,1 @@
+SELECT * FROM GiveMeTheGoods WHERE Country NOT IN ('Sint Maarten', 'Haiti');
